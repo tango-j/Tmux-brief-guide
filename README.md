@@ -4,7 +4,7 @@ Tmux  It is a terminal multiplexer utility which has a capability to let you spl
 To get started type command "tmux" to start your tmux session.This will create a new tmux session with a nice all-green status bar at the bottom
 
 The status bar shows you the multiple tmux sessions created by you and also helps us to navigate to different panes.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Ctrl+b is the default prefix in tmux utility and is used to instruct tmux session that user is going to give a command after the prefix. So before all commands we need to trigger the prefix command.
 
 Handy commands:
